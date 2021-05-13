@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'CatShop_Example' do
+  pod 'CatShop', :path => '../'
+
+  target 'CatShop_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
