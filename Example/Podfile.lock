@@ -1,0 +1,16 @@
+PODS:
+  - CatShop (0.1.0)
+
+DEPENDENCIES:
+  - CatShop (from `../`)
+
+EXTERNAL SOURCES:
+  CatShop:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CatShop: 4ce8381c82a0df567ff8615aa12bdab97bf7ca74
+
+PODFILE CHECKSUM: 411cea92f4174a4e7f7ff004c34de70c1056655d
+
+COCOAPODS: 1.8.4

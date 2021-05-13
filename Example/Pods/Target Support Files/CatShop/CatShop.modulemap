@@ -1,0 +1,6 @@
+framework module CatShop {
+  umbrella header "CatShop-umbrella.h"
+
+  export *
+  module * { export * }
+}
